@@ -1,0 +1,44 @@
+[
+ {
+  "id": "oz-heavy-honey-below-target",
+  "marketplace": "ozon",
+  "sku": "HNY-BCK-500",
+  "kind": "margin",
+  "hint": "Price 590 does not cover cogs+commission+logistics+tax with target margin"
+ },
+ {
+  "id": "oz-ads-out-of-stock",
+  "marketplace": "ozon",
+  "sku": "TEA-MAT-030",
+  "kind": "ads",
+  "hint": "Campaign spends ~450/day while stock is 0"
+ },
+ {
+  "id": "wb-teapot-returns",
+  "marketplace": "wb",
+  "sku": "ACC-POT-600",
+  "kind": "returns",
+  "hint": "Buyout ~38%, return logistics eats margin"
+ },
+ {
+  "id": "wb-teapot-ads-drr",
+  "marketplace": "wb",
+  "sku": "ACC-POT-600",
+  "kind": "ads",
+  "hint": "DRR far above 10% target"
+ },
+ {
+  "id": "wb-giftset-overstock",
+  "marketplace": "wb",
+  "sku": "TEA-GFT-SET",
+  "kind": "storage",
+  "hint": "2400 units vs ~2/day sales: >3 years of stock"
+ },
+ {
+  "id": "ym-late-shipment-penalties",
+  "marketplace": "ym",
+  "sku": null,
+  "kind": "penalty",
+  "hint": "7 penalties x 1500"
+ }
+]

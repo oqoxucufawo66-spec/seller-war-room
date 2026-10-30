@@ -1,0 +1,482 @@
+[
+ {
+  "date": "2026-09-28",
+  "campaign": "WB-Auto-Teapot",
+  "sku": "ACC-POT-600",
+  "spend": 929.62,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-09-29",
+  "campaign": "WB-Auto-Teapot",
+  "sku": "ACC-POT-600",
+  "spend": 815.38,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-09-30",
+  "campaign": "WB-Auto-Teapot",
+  "sku": "ACC-POT-600",
+  "spend": 793.75,
+  "attributedOrders": 1,
+  "attributedRevenue": 1390
+ },
+ {
+  "date": "2026-10-01",
+  "campaign": "WB-Auto-Teapot",
+  "sku": "ACC-POT-600",
+  "spend": 791.24,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-02",
+  "campaign": "WB-Auto-Teapot",
+  "sku": "ACC-POT-600",
+  "spend": 958.76,
+  "attributedOrders": 1,
+  "attributedRevenue": 1390
+ },
+ {
+  "date": "2026-10-03",
+  "campaign": "WB-Auto-Teapot",
+  "sku": "ACC-POT-600",
+  "spend": 1025.33,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-04",
+  "campaign": "WB-Auto-Teapot",
+  "sku": "ACC-POT-600",
+  "spend": 790.18,
+  "attributedOrders": 4,
+  "attributedRevenue": 5560
+ },
+ {
+  "date": "2026-10-05",
+  "campaign": "WB-Auto-Teapot",
+  "sku": "ACC-POT-600",
+  "spend": 838.87,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-06",
+  "campaign": "WB-Auto-Teapot",
+  "sku": "ACC-POT-600",
+  "spend": 799.24,
+  "attributedOrders": 1,
+  "attributedRevenue": 1390
+ },
+ {
+  "date": "2026-10-07",
+  "campaign": "WB-Auto-Teapot",
+  "sku": "ACC-POT-600",
+  "spend": 766.36,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-08",
+  "campaign": "WB-Auto-Teapot",
+  "sku": "ACC-POT-600",
+  "spend": 1012.31,
+  "attributedOrders": 1,
+  "attributedRevenue": 1390
+ },
+ {
+  "date": "2026-10-09",
+  "campaign": "WB-Auto-Teapot",
+  "sku": "ACC-POT-600",
+  "spend": 987.88,
+  "attributedOrders": 1,
+  "attributedRevenue": 1390
+ },
+ {
+  "date": "2026-10-10",
+  "campaign": "WB-Auto-Teapot",
+  "sku": "ACC-POT-600",
+  "spend": 966.76,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-11",
+  "campaign": "WB-Auto-Teapot",
+  "sku": "ACC-POT-600",
+  "spend": 879.63,
+  "attributedOrders": 1,
+  "attributedRevenue": 1390
+ },
+ {
+  "date": "2026-10-12",
+  "campaign": "WB-Auto-Teapot",
+  "sku": "ACC-POT-600",
+  "spend": 979.84,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-13",
+  "campaign": "WB-Auto-Teapot",
+  "sku": "ACC-POT-600",
+  "spend": 1032.06,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-14",
+  "campaign": "WB-Auto-Teapot",
+  "sku": "ACC-POT-600",
+  "spend": 970.64,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-15",
+  "campaign": "WB-Auto-Teapot",
+  "sku": "ACC-POT-600",
+  "spend": 825.63,
+  "attributedOrders": 2,
+  "attributedRevenue": 2780
+ },
+ {
+  "date": "2026-10-16",
+  "campaign": "WB-Auto-Teapot",
+  "sku": "ACC-POT-600",
+  "spend": 970.49,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-17",
+  "campaign": "WB-Auto-Teapot",
+  "sku": "ACC-POT-600",
+  "spend": 912.95,
+  "attributedOrders": 1,
+  "attributedRevenue": 1390
+ },
+ {
+  "date": "2026-10-18",
+  "campaign": "WB-Auto-Teapot",
+  "sku": "ACC-POT-600",
+  "spend": 955.96,
+  "attributedOrders": 1,
+  "attributedRevenue": 1390
+ },
+ {
+  "date": "2026-10-19",
+  "campaign": "WB-Auto-Teapot",
+  "sku": "ACC-POT-600",
+  "spend": 906.84,
+  "attributedOrders": 3,
+  "attributedRevenue": 4170
+ },
+ {
+  "date": "2026-10-20",
+  "campaign": "WB-Auto-Teapot",
+  "sku": "ACC-POT-600",
+  "spend": 969.46,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-21",
+  "campaign": "WB-Auto-Teapot",
+  "sku": "ACC-POT-600",
+  "spend": 1019.47,
+  "attributedOrders": 2,
+  "attributedRevenue": 2780
+ },
+ {
+  "date": "2026-10-22",
+  "campaign": "WB-Auto-Teapot",
+  "sku": "ACC-POT-600",
+  "spend": 914.99,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-23",
+  "campaign": "WB-Auto-Teapot",
+  "sku": "ACC-POT-600",
+  "spend": 1029.79,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-24",
+  "campaign": "WB-Auto-Teapot",
+  "sku": "ACC-POT-600",
+  "spend": 993.23,
+  "attributedOrders": 1,
+  "attributedRevenue": 1390
+ },
+ {
+  "date": "2026-10-25",
+  "campaign": "WB-Auto-Teapot",
+  "sku": "ACC-POT-600",
+  "spend": 943.79,
+  "attributedOrders": 1,
+  "attributedRevenue": 1390
+ },
+ {
+  "date": "2026-10-26",
+  "campaign": "WB-Auto-Teapot",
+  "sku": "ACC-POT-600",
+  "spend": 1010.29,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-27",
+  "campaign": "WB-Auto-Teapot",
+  "sku": "ACC-POT-600",
+  "spend": 771.67,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-09-28",
+  "campaign": "WB-Search-Honey",
+  "sku": "HNY-LIN-250",
+  "spend": 162.47,
+  "attributedOrders": 2,
+  "attributedRevenue": 940
+ },
+ {
+  "date": "2026-09-29",
+  "campaign": "WB-Search-Honey",
+  "sku": "HNY-LIN-250",
+  "spend": 156.82,
+  "attributedOrders": 2,
+  "attributedRevenue": 940
+ },
+ {
+  "date": "2026-09-30",
+  "campaign": "WB-Search-Honey",
+  "sku": "HNY-LIN-250",
+  "spend": 130.24,
+  "attributedOrders": 1,
+  "attributedRevenue": 470
+ },
+ {
+  "date": "2026-10-01",
+  "campaign": "WB-Search-Honey",
+  "sku": "HNY-LIN-250",
+  "spend": 169.71,
+  "attributedOrders": 2,
+  "attributedRevenue": 940
+ },
+ {
+  "date": "2026-10-02",
+  "campaign": "WB-Search-Honey",
+  "sku": "HNY-LIN-250",
+  "spend": 162.08,
+  "attributedOrders": 2,
+  "attributedRevenue": 940
+ },
+ {
+  "date": "2026-10-03",
+  "campaign": "WB-Search-Honey",
+  "sku": "HNY-LIN-250",
+  "spend": 151.9,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-04",
+  "campaign": "WB-Search-Honey",
+  "sku": "HNY-LIN-250",
+  "spend": 160.65,
+  "attributedOrders": 1,
+  "attributedRevenue": 470
+ },
+ {
+  "date": "2026-10-05",
+  "campaign": "WB-Search-Honey",
+  "sku": "HNY-LIN-250",
+  "spend": 154.74,
+  "attributedOrders": 2,
+  "attributedRevenue": 940
+ },
+ {
+  "date": "2026-10-06",
+  "campaign": "WB-Search-Honey",
+  "sku": "HNY-LIN-250",
+  "spend": 166.23,
+  "attributedOrders": 1,
+  "attributedRevenue": 470
+ },
+ {
+  "date": "2026-10-07",
+  "campaign": "WB-Search-Honey",
+  "sku": "HNY-LIN-250",
+  "spend": 165.07,
+  "attributedOrders": 2,
+  "attributedRevenue": 940
+ },
+ {
+  "date": "2026-10-08",
+  "campaign": "WB-Search-Honey",
+  "sku": "HNY-LIN-250",
+  "spend": 144.21,
+  "attributedOrders": 5,
+  "attributedRevenue": 2350
+ },
+ {
+  "date": "2026-10-09",
+  "campaign": "WB-Search-Honey",
+  "sku": "HNY-LIN-250",
+  "spend": 140.85,
+  "attributedOrders": 3,
+  "attributedRevenue": 1410
+ },
+ {
+  "date": "2026-10-10",
+  "campaign": "WB-Search-Honey",
+  "sku": "HNY-LIN-250",
+  "spend": 161.77,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-11",
+  "campaign": "WB-Search-Honey",
+  "sku": "HNY-LIN-250",
+  "spend": 159.3,
+  "attributedOrders": 2,
+  "attributedRevenue": 940
+ },
+ {
+  "date": "2026-10-12",
+  "campaign": "WB-Search-Honey",
+  "sku": "HNY-LIN-250",
+  "spend": 160.96,
+  "attributedOrders": 2,
+  "attributedRevenue": 940
+ },
+ {
+  "date": "2026-10-13",
+  "campaign": "WB-Search-Honey",
+  "sku": "HNY-LIN-250",
+  "spend": 132.72,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-14",
+  "campaign": "WB-Search-Honey",
+  "sku": "HNY-LIN-250",
+  "spend": 136.26,
+  "attributedOrders": 1,
+  "attributedRevenue": 470
+ },
+ {
+  "date": "2026-10-15",
+  "campaign": "WB-Search-Honey",
+  "sku": "HNY-LIN-250",
+  "spend": 167.57,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-16",
+  "campaign": "WB-Search-Honey",
+  "sku": "HNY-LIN-250",
+  "spend": 136.26,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-17",
+  "campaign": "WB-Search-Honey",
+  "sku": "HNY-LIN-250",
+  "spend": 160.08,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-18",
+  "campaign": "WB-Search-Honey",
+  "sku": "HNY-LIN-250",
+  "spend": 164.74,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-19",
+  "campaign": "WB-Search-Honey",
+  "sku": "HNY-LIN-250",
+  "spend": 153.43,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-20",
+  "campaign": "WB-Search-Honey",
+  "sku": "HNY-LIN-250",
+  "spend": 146.44,
+  "attributedOrders": 1,
+  "attributedRevenue": 470
+ },
+ {
+  "date": "2026-10-21",
+  "campaign": "WB-Search-Honey",
+  "sku": "HNY-LIN-250",
+  "spend": 161.74,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-22",
+  "campaign": "WB-Search-Honey",
+  "sku": "HNY-LIN-250",
+  "spend": 132.3,
+  "attributedOrders": 2,
+  "attributedRevenue": 940
+ },
+ {
+  "date": "2026-10-23",
+  "campaign": "WB-Search-Honey",
+  "sku": "HNY-LIN-250",
+  "spend": 148.33,
+  "attributedOrders": 2,
+  "attributedRevenue": 940
+ },
+ {
+  "date": "2026-10-24",
+  "campaign": "WB-Search-Honey",
+  "sku": "HNY-LIN-250",
+  "spend": 159.33,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-25",
+  "campaign": "WB-Search-Honey",
+  "sku": "HNY-LIN-250",
+  "spend": 142.97,
+  "attributedOrders": 1,
+  "attributedRevenue": 470
+ },
+ {
+  "date": "2026-10-26",
+  "campaign": "WB-Search-Honey",
+  "sku": "HNY-LIN-250",
+  "spend": 165.02,
+  "attributedOrders": 1,
+  "attributedRevenue": 470
+ },
+ {
+  "date": "2026-10-27",
+  "campaign": "WB-Search-Honey",
+  "sku": "HNY-LIN-250",
+  "spend": 148.05,
+  "attributedOrders": 1,
+  "attributedRevenue": 470
+ }
+]

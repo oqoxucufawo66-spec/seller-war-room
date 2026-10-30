@@ -1,0 +1,242 @@
+[
+ {
+  "date": "2026-09-28",
+  "campaign": "YM-Boost-Puer",
+  "sku": "TEA-PUE-200",
+  "spend": 84.77,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-09-29",
+  "campaign": "YM-Boost-Puer",
+  "sku": "TEA-PUE-200",
+  "spend": 80.84,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-09-30",
+  "campaign": "YM-Boost-Puer",
+  "sku": "TEA-PUE-200",
+  "spend": 88.74,
+  "attributedOrders": 1,
+  "attributedRevenue": 899
+ },
+ {
+  "date": "2026-10-01",
+  "campaign": "YM-Boost-Puer",
+  "sku": "TEA-PUE-200",
+  "spend": 80.62,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-02",
+  "campaign": "YM-Boost-Puer",
+  "sku": "TEA-PUE-200",
+  "spend": 80.68,
+  "attributedOrders": 1,
+  "attributedRevenue": 899
+ },
+ {
+  "date": "2026-10-03",
+  "campaign": "YM-Boost-Puer",
+  "sku": "TEA-PUE-200",
+  "spend": 88.25,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-04",
+  "campaign": "YM-Boost-Puer",
+  "sku": "TEA-PUE-200",
+  "spend": 76.61,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-05",
+  "campaign": "YM-Boost-Puer",
+  "sku": "TEA-PUE-200",
+  "spend": 94.77,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-06",
+  "campaign": "YM-Boost-Puer",
+  "sku": "TEA-PUE-200",
+  "spend": 101.38,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-07",
+  "campaign": "YM-Boost-Puer",
+  "sku": "TEA-PUE-200",
+  "spend": 87.22,
+  "attributedOrders": 1,
+  "attributedRevenue": 899
+ },
+ {
+  "date": "2026-10-08",
+  "campaign": "YM-Boost-Puer",
+  "sku": "TEA-PUE-200",
+  "spend": 99.9,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-09",
+  "campaign": "YM-Boost-Puer",
+  "sku": "TEA-PUE-200",
+  "spend": 85.65,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-10",
+  "campaign": "YM-Boost-Puer",
+  "sku": "TEA-PUE-200",
+  "spend": 82.27,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-11",
+  "campaign": "YM-Boost-Puer",
+  "sku": "TEA-PUE-200",
+  "spend": 81.59,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-12",
+  "campaign": "YM-Boost-Puer",
+  "sku": "TEA-PUE-200",
+  "spend": 94.27,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-13",
+  "campaign": "YM-Boost-Puer",
+  "sku": "TEA-PUE-200",
+  "spend": 92.43,
+  "attributedOrders": 2,
+  "attributedRevenue": 1798
+ },
+ {
+  "date": "2026-10-14",
+  "campaign": "YM-Boost-Puer",
+  "sku": "TEA-PUE-200",
+  "spend": 89.71,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-15",
+  "campaign": "YM-Boost-Puer",
+  "sku": "TEA-PUE-200",
+  "spend": 101.73,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-16",
+  "campaign": "YM-Boost-Puer",
+  "sku": "TEA-PUE-200",
+  "spend": 92.33,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-17",
+  "campaign": "YM-Boost-Puer",
+  "sku": "TEA-PUE-200",
+  "spend": 87.93,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-18",
+  "campaign": "YM-Boost-Puer",
+  "sku": "TEA-PUE-200",
+  "spend": 92.46,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-19",
+  "campaign": "YM-Boost-Puer",
+  "sku": "TEA-PUE-200",
+  "spend": 98.42,
+  "attributedOrders": 1,
+  "attributedRevenue": 899
+ },
+ {
+  "date": "2026-10-20",
+  "campaign": "YM-Boost-Puer",
+  "sku": "TEA-PUE-200",
+  "spend": 99.01,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-21",
+  "campaign": "YM-Boost-Puer",
+  "sku": "TEA-PUE-200",
+  "spend": 93.34,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-22",
+  "campaign": "YM-Boost-Puer",
+  "sku": "TEA-PUE-200",
+  "spend": 91.9,
+  "attributedOrders": 1,
+  "attributedRevenue": 899
+ },
+ {
+  "date": "2026-10-23",
+  "campaign": "YM-Boost-Puer",
+  "sku": "TEA-PUE-200",
+  "spend": 78.09,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-24",
+  "campaign": "YM-Boost-Puer",
+  "sku": "TEA-PUE-200",
+  "spend": 102.52,
+  "attributedOrders": 2,
+  "attributedRevenue": 1798
+ },
+ {
+  "date": "2026-10-25",
+  "campaign": "YM-Boost-Puer",
+  "sku": "TEA-PUE-200",
+  "spend": 89.78,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-26",
+  "campaign": "YM-Boost-Puer",
+  "sku": "TEA-PUE-200",
+  "spend": 90.66,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-27",
+  "campaign": "YM-Boost-Puer",
+  "sku": "TEA-PUE-200",
+  "spend": 100.65,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ }
+]

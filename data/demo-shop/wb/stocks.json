@@ -1,0 +1,52 @@
+[
+ {
+  "sku": "TEA-BLK-100",
+  "units": 150,
+  "avgOrdersPerDay": 4
+ },
+ {
+  "sku": "TEA-GRN-100",
+  "units": 150,
+  "avgOrdersPerDay": 4
+ },
+ {
+  "sku": "TEA-HRB-050",
+  "units": 150,
+  "avgOrdersPerDay": 4
+ },
+ {
+  "sku": "TEA-PUE-200",
+  "units": 150,
+  "avgOrdersPerDay": 4
+ },
+ {
+  "sku": "TEA-GFT-SET",
+  "units": 2400,
+  "avgOrdersPerDay": 2
+ },
+ {
+  "sku": "HNY-LIN-250",
+  "units": 150,
+  "avgOrdersPerDay": 4
+ },
+ {
+  "sku": "HNY-BCK-500",
+  "units": 150,
+  "avgOrdersPerDay": 4
+ },
+ {
+  "sku": "ACC-INF-001",
+  "units": 150,
+  "avgOrdersPerDay": 4
+ },
+ {
+  "sku": "ACC-POT-600",
+  "units": 150,
+  "avgOrdersPerDay": 1.2
+ },
+ {
+  "sku": "TEA-MAT-030",
+  "units": 150,
+  "avgOrdersPerDay": 4
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "sku": "TEA-BLK-100",
+  "name": "Black tea Assam 100 g",
+  "cogs": 95,
+  "weightKg": 0.12
+ },
+ {
+  "sku": "TEA-GRN-100",
+  "name": "Green tea Sencha 100 g",
+  "cogs": 110,
+  "weightKg": 0.12
+ },
+ {
+  "sku": "TEA-HRB-050",
+  "name": "Herbal mix Mountain 50 g",
+  "cogs": 60,
+  "weightKg": 0.07
+ },
+ {
+  "sku": "TEA-PUE-200",
+  "name": "Puer pressed 200 g",
+  "cogs": 240,
+  "weightKg": 0.25
+ },
+ {
+  "sku": "TEA-GFT-SET",
+  "name": "Gift set 4 teas",
+  "cogs": 520,
+  "weightKg": 0.6
+ },
+ {
+  "sku": "HNY-LIN-250",
+  "name": "Linden honey 250 g",
+  "cogs": 150,
+  "weightKg": 0.33
+ },
+ {
+  "sku": "HNY-BCK-500",
+  "name": "Buckwheat honey 500 g",
+  "cogs": 230,
+  "weightKg": 0.62
+ },
+ {
+  "sku": "ACC-INF-001",
+  "name": "Steel tea infuser",
+  "cogs": 70,
+  "weightKg": 0.05
+ },
+ {
+  "sku": "ACC-POT-600",
+  "name": "Glass teapot 600 ml",
+  "cogs": 480,
+  "weightKg": 0.9
+ },
+ {
+  "sku": "TEA-MAT-030",
+  "name": "Matcha ceremonial 30 g",
+  "cogs": 310,
+  "weightKg": 0.04
+ }
+]

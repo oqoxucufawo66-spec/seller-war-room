@@ -1,0 +1,2102 @@
+[
+ {
+  "date": "2026-09-28",
+  "sku": "TEA-BLK-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-09-28",
+  "sku": "TEA-GRN-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-09-28",
+  "sku": "TEA-HRB-050",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-09-28",
+  "sku": "TEA-PUE-200",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-09-28",
+  "sku": "TEA-GFT-SET",
+  "kind": "storage",
+  "units": 2400,
+  "amount": 1200
+ },
+ {
+  "date": "2026-09-28",
+  "sku": "HNY-LIN-250",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-09-28",
+  "sku": "HNY-BCK-500",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-09-28",
+  "sku": "ACC-INF-001",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-09-28",
+  "sku": "ACC-POT-600",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-09-28",
+  "sku": "TEA-MAT-030",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-09-29",
+  "sku": "TEA-BLK-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-09-29",
+  "sku": "TEA-GRN-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-09-29",
+  "sku": "TEA-HRB-050",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-09-29",
+  "sku": "TEA-PUE-200",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-09-29",
+  "sku": "TEA-GFT-SET",
+  "kind": "storage",
+  "units": 2400,
+  "amount": 1200
+ },
+ {
+  "date": "2026-09-29",
+  "sku": "HNY-LIN-250",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-09-29",
+  "sku": "HNY-BCK-500",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-09-29",
+  "sku": "ACC-INF-001",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-09-29",
+  "sku": "ACC-POT-600",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-09-29",
+  "sku": "TEA-MAT-030",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-09-30",
+  "sku": "TEA-BLK-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-09-30",
+  "sku": "TEA-GRN-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-09-30",
+  "sku": "TEA-HRB-050",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-09-30",
+  "sku": "TEA-PUE-200",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-09-30",
+  "sku": "TEA-GFT-SET",
+  "kind": "storage",
+  "units": 2400,
+  "amount": 1200
+ },
+ {
+  "date": "2026-09-30",
+  "sku": "HNY-LIN-250",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-09-30",
+  "sku": "HNY-BCK-500",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-09-30",
+  "sku": "ACC-INF-001",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-09-30",
+  "sku": "ACC-POT-600",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-09-30",
+  "sku": "TEA-MAT-030",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-01",
+  "sku": "TEA-BLK-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-01",
+  "sku": "TEA-GRN-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-01",
+  "sku": "TEA-HRB-050",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-01",
+  "sku": "TEA-PUE-200",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-01",
+  "sku": "TEA-GFT-SET",
+  "kind": "storage",
+  "units": 2400,
+  "amount": 1200
+ },
+ {
+  "date": "2026-10-01",
+  "sku": "HNY-LIN-250",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-01",
+  "sku": "HNY-BCK-500",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-01",
+  "sku": "ACC-INF-001",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-01",
+  "sku": "ACC-POT-600",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-01",
+  "sku": "TEA-MAT-030",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-02",
+  "sku": "TEA-BLK-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-02",
+  "sku": "TEA-GRN-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-02",
+  "sku": "TEA-HRB-050",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-02",
+  "sku": "TEA-PUE-200",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-02",
+  "sku": "TEA-GFT-SET",
+  "kind": "storage",
+  "units": 2400,
+  "amount": 1200
+ },
+ {
+  "date": "2026-10-02",
+  "sku": "HNY-LIN-250",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-02",
+  "sku": "HNY-BCK-500",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-02",
+  "sku": "ACC-INF-001",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-02",
+  "sku": "ACC-POT-600",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-02",
+  "sku": "TEA-MAT-030",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-03",
+  "sku": "TEA-BLK-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-03",
+  "sku": "TEA-GRN-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-03",
+  "sku": "TEA-HRB-050",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-03",
+  "sku": "TEA-PUE-200",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-03",
+  "sku": "TEA-GFT-SET",
+  "kind": "storage",
+  "units": 2400,
+  "amount": 1200
+ },
+ {
+  "date": "2026-10-03",
+  "sku": "HNY-LIN-250",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-03",
+  "sku": "HNY-BCK-500",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-03",
+  "sku": "ACC-INF-001",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-03",
+  "sku": "ACC-POT-600",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-03",
+  "sku": "TEA-MAT-030",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-04",
+  "sku": "TEA-BLK-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-04",
+  "sku": "TEA-GRN-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-04",
+  "sku": "TEA-HRB-050",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-04",
+  "sku": "TEA-PUE-200",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-04",
+  "sku": "TEA-GFT-SET",
+  "kind": "storage",
+  "units": 2400,
+  "amount": 1200
+ },
+ {
+  "date": "2026-10-04",
+  "sku": "HNY-LIN-250",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-04",
+  "sku": "HNY-BCK-500",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-04",
+  "sku": "ACC-INF-001",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-04",
+  "sku": "ACC-POT-600",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-04",
+  "sku": "TEA-MAT-030",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-05",
+  "sku": "TEA-BLK-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-05",
+  "sku": "TEA-GRN-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-05",
+  "sku": "TEA-HRB-050",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-05",
+  "sku": "TEA-PUE-200",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-05",
+  "sku": "TEA-GFT-SET",
+  "kind": "storage",
+  "units": 2400,
+  "amount": 1200
+ },
+ {
+  "date": "2026-10-05",
+  "sku": "HNY-LIN-250",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-05",
+  "sku": "HNY-BCK-500",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-05",
+  "sku": "ACC-INF-001",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-05",
+  "sku": "ACC-POT-600",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-05",
+  "sku": "TEA-MAT-030",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-06",
+  "sku": "TEA-BLK-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-06",
+  "sku": "TEA-GRN-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-06",
+  "sku": "TEA-HRB-050",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-06",
+  "sku": "TEA-PUE-200",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-06",
+  "sku": "TEA-GFT-SET",
+  "kind": "storage",
+  "units": 2400,
+  "amount": 1200
+ },
+ {
+  "date": "2026-10-06",
+  "sku": "HNY-LIN-250",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-06",
+  "sku": "HNY-BCK-500",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-06",
+  "sku": "ACC-INF-001",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-06",
+  "sku": "ACC-POT-600",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-06",
+  "sku": "TEA-MAT-030",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-07",
+  "sku": "TEA-BLK-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-07",
+  "sku": "TEA-GRN-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-07",
+  "sku": "TEA-HRB-050",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-07",
+  "sku": "TEA-PUE-200",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-07",
+  "sku": "TEA-GFT-SET",
+  "kind": "storage",
+  "units": 2400,
+  "amount": 1200
+ },
+ {
+  "date": "2026-10-07",
+  "sku": "HNY-LIN-250",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-07",
+  "sku": "HNY-BCK-500",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-07",
+  "sku": "ACC-INF-001",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-07",
+  "sku": "ACC-POT-600",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-07",
+  "sku": "TEA-MAT-030",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-08",
+  "sku": "TEA-BLK-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-08",
+  "sku": "TEA-GRN-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-08",
+  "sku": "TEA-HRB-050",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-08",
+  "sku": "TEA-PUE-200",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-08",
+  "sku": "TEA-GFT-SET",
+  "kind": "storage",
+  "units": 2400,
+  "amount": 1200
+ },
+ {
+  "date": "2026-10-08",
+  "sku": "HNY-LIN-250",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-08",
+  "sku": "HNY-BCK-500",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-08",
+  "sku": "ACC-INF-001",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-08",
+  "sku": "ACC-POT-600",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-08",
+  "sku": "TEA-MAT-030",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-09",
+  "sku": "TEA-BLK-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-09",
+  "sku": "TEA-GRN-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-09",
+  "sku": "TEA-HRB-050",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-09",
+  "sku": "TEA-PUE-200",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-09",
+  "sku": "TEA-GFT-SET",
+  "kind": "storage",
+  "units": 2400,
+  "amount": 1200
+ },
+ {
+  "date": "2026-10-09",
+  "sku": "HNY-LIN-250",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-09",
+  "sku": "HNY-BCK-500",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-09",
+  "sku": "ACC-INF-001",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-09",
+  "sku": "ACC-POT-600",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-09",
+  "sku": "TEA-MAT-030",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-10",
+  "sku": "TEA-BLK-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-10",
+  "sku": "TEA-GRN-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-10",
+  "sku": "TEA-HRB-050",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-10",
+  "sku": "TEA-PUE-200",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-10",
+  "sku": "TEA-GFT-SET",
+  "kind": "storage",
+  "units": 2400,
+  "amount": 1200
+ },
+ {
+  "date": "2026-10-10",
+  "sku": "HNY-LIN-250",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-10",
+  "sku": "HNY-BCK-500",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-10",
+  "sku": "ACC-INF-001",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-10",
+  "sku": "ACC-POT-600",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-10",
+  "sku": "TEA-MAT-030",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-11",
+  "sku": "TEA-BLK-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-11",
+  "sku": "TEA-GRN-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-11",
+  "sku": "TEA-HRB-050",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-11",
+  "sku": "TEA-PUE-200",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-11",
+  "sku": "TEA-GFT-SET",
+  "kind": "storage",
+  "units": 2400,
+  "amount": 1200
+ },
+ {
+  "date": "2026-10-11",
+  "sku": "HNY-LIN-250",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-11",
+  "sku": "HNY-BCK-500",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-11",
+  "sku": "ACC-INF-001",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-11",
+  "sku": "ACC-POT-600",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-11",
+  "sku": "TEA-MAT-030",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-12",
+  "sku": "TEA-BLK-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-12",
+  "sku": "TEA-GRN-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-12",
+  "sku": "TEA-HRB-050",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-12",
+  "sku": "TEA-PUE-200",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-12",
+  "sku": "TEA-GFT-SET",
+  "kind": "storage",
+  "units": 2400,
+  "amount": 1200
+ },
+ {
+  "date": "2026-10-12",
+  "sku": "HNY-LIN-250",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-12",
+  "sku": "HNY-BCK-500",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-12",
+  "sku": "ACC-INF-001",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-12",
+  "sku": "ACC-POT-600",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-12",
+  "sku": "TEA-MAT-030",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-13",
+  "sku": "TEA-BLK-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-13",
+  "sku": "TEA-GRN-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-13",
+  "sku": "TEA-HRB-050",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-13",
+  "sku": "TEA-PUE-200",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-13",
+  "sku": "TEA-GFT-SET",
+  "kind": "storage",
+  "units": 2400,
+  "amount": 1200
+ },
+ {
+  "date": "2026-10-13",
+  "sku": "HNY-LIN-250",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-13",
+  "sku": "HNY-BCK-500",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-13",
+  "sku": "ACC-INF-001",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-13",
+  "sku": "ACC-POT-600",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-13",
+  "sku": "TEA-MAT-030",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-14",
+  "sku": "TEA-BLK-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-14",
+  "sku": "TEA-GRN-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-14",
+  "sku": "TEA-HRB-050",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-14",
+  "sku": "TEA-PUE-200",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-14",
+  "sku": "TEA-GFT-SET",
+  "kind": "storage",
+  "units": 2400,
+  "amount": 1200
+ },
+ {
+  "date": "2026-10-14",
+  "sku": "HNY-LIN-250",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-14",
+  "sku": "HNY-BCK-500",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-14",
+  "sku": "ACC-INF-001",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-14",
+  "sku": "ACC-POT-600",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-14",
+  "sku": "TEA-MAT-030",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-15",
+  "sku": "TEA-BLK-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-15",
+  "sku": "TEA-GRN-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-15",
+  "sku": "TEA-HRB-050",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-15",
+  "sku": "TEA-PUE-200",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-15",
+  "sku": "TEA-GFT-SET",
+  "kind": "storage",
+  "units": 2400,
+  "amount": 1200
+ },
+ {
+  "date": "2026-10-15",
+  "sku": "HNY-LIN-250",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-15",
+  "sku": "HNY-BCK-500",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-15",
+  "sku": "ACC-INF-001",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-15",
+  "sku": "ACC-POT-600",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-15",
+  "sku": "TEA-MAT-030",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-16",
+  "sku": "TEA-BLK-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-16",
+  "sku": "TEA-GRN-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-16",
+  "sku": "TEA-HRB-050",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-16",
+  "sku": "TEA-PUE-200",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-16",
+  "sku": "TEA-GFT-SET",
+  "kind": "storage",
+  "units": 2400,
+  "amount": 1200
+ },
+ {
+  "date": "2026-10-16",
+  "sku": "HNY-LIN-250",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-16",
+  "sku": "HNY-BCK-500",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-16",
+  "sku": "ACC-INF-001",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-16",
+  "sku": "ACC-POT-600",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-16",
+  "sku": "TEA-MAT-030",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-17",
+  "sku": "TEA-BLK-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-17",
+  "sku": "TEA-GRN-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-17",
+  "sku": "TEA-HRB-050",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-17",
+  "sku": "TEA-PUE-200",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-17",
+  "sku": "TEA-GFT-SET",
+  "kind": "storage",
+  "units": 2400,
+  "amount": 1200
+ },
+ {
+  "date": "2026-10-17",
+  "sku": "HNY-LIN-250",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-17",
+  "sku": "HNY-BCK-500",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-17",
+  "sku": "ACC-INF-001",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-17",
+  "sku": "ACC-POT-600",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-17",
+  "sku": "TEA-MAT-030",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-18",
+  "sku": "TEA-BLK-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-18",
+  "sku": "TEA-GRN-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-18",
+  "sku": "TEA-HRB-050",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-18",
+  "sku": "TEA-PUE-200",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-18",
+  "sku": "TEA-GFT-SET",
+  "kind": "storage",
+  "units": 2400,
+  "amount": 1200
+ },
+ {
+  "date": "2026-10-18",
+  "sku": "HNY-LIN-250",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-18",
+  "sku": "HNY-BCK-500",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-18",
+  "sku": "ACC-INF-001",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-18",
+  "sku": "ACC-POT-600",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-18",
+  "sku": "TEA-MAT-030",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-19",
+  "sku": "TEA-BLK-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-19",
+  "sku": "TEA-GRN-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-19",
+  "sku": "TEA-HRB-050",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-19",
+  "sku": "TEA-PUE-200",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-19",
+  "sku": "TEA-GFT-SET",
+  "kind": "storage",
+  "units": 2400,
+  "amount": 1200
+ },
+ {
+  "date": "2026-10-19",
+  "sku": "HNY-LIN-250",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-19",
+  "sku": "HNY-BCK-500",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-19",
+  "sku": "ACC-INF-001",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-19",
+  "sku": "ACC-POT-600",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-19",
+  "sku": "TEA-MAT-030",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-20",
+  "sku": "TEA-BLK-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-20",
+  "sku": "TEA-GRN-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-20",
+  "sku": "TEA-HRB-050",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-20",
+  "sku": "TEA-PUE-200",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-20",
+  "sku": "TEA-GFT-SET",
+  "kind": "storage",
+  "units": 2400,
+  "amount": 1200
+ },
+ {
+  "date": "2026-10-20",
+  "sku": "HNY-LIN-250",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-20",
+  "sku": "HNY-BCK-500",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-20",
+  "sku": "ACC-INF-001",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-20",
+  "sku": "ACC-POT-600",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-20",
+  "sku": "TEA-MAT-030",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-21",
+  "sku": "TEA-BLK-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-21",
+  "sku": "TEA-GRN-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-21",
+  "sku": "TEA-HRB-050",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-21",
+  "sku": "TEA-PUE-200",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-21",
+  "sku": "TEA-GFT-SET",
+  "kind": "storage",
+  "units": 2400,
+  "amount": 1200
+ },
+ {
+  "date": "2026-10-21",
+  "sku": "HNY-LIN-250",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-21",
+  "sku": "HNY-BCK-500",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-21",
+  "sku": "ACC-INF-001",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-21",
+  "sku": "ACC-POT-600",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-21",
+  "sku": "TEA-MAT-030",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-22",
+  "sku": "TEA-BLK-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-22",
+  "sku": "TEA-GRN-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-22",
+  "sku": "TEA-HRB-050",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-22",
+  "sku": "TEA-PUE-200",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-22",
+  "sku": "TEA-GFT-SET",
+  "kind": "storage",
+  "units": 2400,
+  "amount": 1200
+ },
+ {
+  "date": "2026-10-22",
+  "sku": "HNY-LIN-250",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-22",
+  "sku": "HNY-BCK-500",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-22",
+  "sku": "ACC-INF-001",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-22",
+  "sku": "ACC-POT-600",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-22",
+  "sku": "TEA-MAT-030",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-23",
+  "sku": "TEA-BLK-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-23",
+  "sku": "TEA-GRN-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-23",
+  "sku": "TEA-HRB-050",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-23",
+  "sku": "TEA-PUE-200",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-23",
+  "sku": "TEA-GFT-SET",
+  "kind": "storage",
+  "units": 2400,
+  "amount": 1200
+ },
+ {
+  "date": "2026-10-23",
+  "sku": "HNY-LIN-250",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-23",
+  "sku": "HNY-BCK-500",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-23",
+  "sku": "ACC-INF-001",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-23",
+  "sku": "ACC-POT-600",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-23",
+  "sku": "TEA-MAT-030",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-24",
+  "sku": "TEA-BLK-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-24",
+  "sku": "TEA-GRN-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-24",
+  "sku": "TEA-HRB-050",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-24",
+  "sku": "TEA-PUE-200",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-24",
+  "sku": "TEA-GFT-SET",
+  "kind": "storage",
+  "units": 2400,
+  "amount": 1200
+ },
+ {
+  "date": "2026-10-24",
+  "sku": "HNY-LIN-250",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-24",
+  "sku": "HNY-BCK-500",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-24",
+  "sku": "ACC-INF-001",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-24",
+  "sku": "ACC-POT-600",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-24",
+  "sku": "TEA-MAT-030",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-25",
+  "sku": "TEA-BLK-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-25",
+  "sku": "TEA-GRN-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-25",
+  "sku": "TEA-HRB-050",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-25",
+  "sku": "TEA-PUE-200",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-25",
+  "sku": "TEA-GFT-SET",
+  "kind": "storage",
+  "units": 2400,
+  "amount": 1200
+ },
+ {
+  "date": "2026-10-25",
+  "sku": "HNY-LIN-250",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-25",
+  "sku": "HNY-BCK-500",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-25",
+  "sku": "ACC-INF-001",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-25",
+  "sku": "ACC-POT-600",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-25",
+  "sku": "TEA-MAT-030",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-26",
+  "sku": "TEA-BLK-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-26",
+  "sku": "TEA-GRN-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-26",
+  "sku": "TEA-HRB-050",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-26",
+  "sku": "TEA-PUE-200",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-26",
+  "sku": "TEA-GFT-SET",
+  "kind": "storage",
+  "units": 2400,
+  "amount": 1200
+ },
+ {
+  "date": "2026-10-26",
+  "sku": "HNY-LIN-250",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-26",
+  "sku": "HNY-BCK-500",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-26",
+  "sku": "ACC-INF-001",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-26",
+  "sku": "ACC-POT-600",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-26",
+  "sku": "TEA-MAT-030",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-27",
+  "sku": "TEA-BLK-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-27",
+  "sku": "TEA-GRN-100",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-27",
+  "sku": "TEA-HRB-050",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-27",
+  "sku": "TEA-PUE-200",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-27",
+  "sku": "TEA-GFT-SET",
+  "kind": "storage",
+  "units": 2400,
+  "amount": 1200
+ },
+ {
+  "date": "2026-10-27",
+  "sku": "HNY-LIN-250",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-27",
+  "sku": "HNY-BCK-500",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-27",
+  "sku": "ACC-INF-001",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-27",
+  "sku": "ACC-POT-600",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ },
+ {
+  "date": "2026-10-27",
+  "sku": "TEA-MAT-030",
+  "kind": "storage",
+  "units": 150,
+  "amount": 75
+ }
+]

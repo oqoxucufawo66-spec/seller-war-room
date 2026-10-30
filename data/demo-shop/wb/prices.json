@@ -1,0 +1,52 @@
+[
+ {
+  "sku": "TEA-BLK-100",
+  "price": 370,
+  "commissionRate": 0.245
+ },
+ {
+  "sku": "TEA-GRN-100",
+  "price": 410,
+  "commissionRate": 0.245
+ },
+ {
+  "sku": "TEA-HRB-050",
+  "price": 270,
+  "commissionRate": 0.245
+ },
+ {
+  "sku": "TEA-PUE-200",
+  "price": 860,
+  "commissionRate": 0.245
+ },
+ {
+  "sku": "TEA-GFT-SET",
+  "price": 1790,
+  "commissionRate": 0.245
+ },
+ {
+  "sku": "HNY-LIN-250",
+  "price": 470,
+  "commissionRate": 0.245
+ },
+ {
+  "sku": "HNY-BCK-500",
+  "price": 690,
+  "commissionRate": 0.245
+ },
+ {
+  "sku": "ACC-INF-001",
+  "price": 240,
+  "commissionRate": 0.245
+ },
+ {
+  "sku": "ACC-POT-600",
+  "price": 1390,
+  "commissionRate": 0.27
+ },
+ {
+  "sku": "TEA-MAT-030",
+  "price": 950,
+  "commissionRate": 0.245
+ }
+]

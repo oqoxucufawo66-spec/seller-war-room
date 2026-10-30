@@ -1,0 +1,482 @@
+[
+ {
+  "date": "2026-09-28",
+  "campaign": "OZ-Search-Assam",
+  "sku": "TEA-BLK-100",
+  "spend": 130.2,
+  "attributedOrders": 2,
+  "attributedRevenue": 780
+ },
+ {
+  "date": "2026-09-29",
+  "campaign": "OZ-Search-Assam",
+  "sku": "TEA-BLK-100",
+  "spend": 111.85,
+  "attributedOrders": 2,
+  "attributedRevenue": 780
+ },
+ {
+  "date": "2026-09-30",
+  "campaign": "OZ-Search-Assam",
+  "sku": "TEA-BLK-100",
+  "spend": 136.6,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-01",
+  "campaign": "OZ-Search-Assam",
+  "sku": "TEA-BLK-100",
+  "spend": 131.73,
+  "attributedOrders": 3,
+  "attributedRevenue": 1170
+ },
+ {
+  "date": "2026-10-02",
+  "campaign": "OZ-Search-Assam",
+  "sku": "TEA-BLK-100",
+  "spend": 112.6,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-03",
+  "campaign": "OZ-Search-Assam",
+  "sku": "TEA-BLK-100",
+  "spend": 119.71,
+  "attributedOrders": 3,
+  "attributedRevenue": 1170
+ },
+ {
+  "date": "2026-10-04",
+  "campaign": "OZ-Search-Assam",
+  "sku": "TEA-BLK-100",
+  "spend": 105.84,
+  "attributedOrders": 1,
+  "attributedRevenue": 390
+ },
+ {
+  "date": "2026-10-05",
+  "campaign": "OZ-Search-Assam",
+  "sku": "TEA-BLK-100",
+  "spend": 109.06,
+  "attributedOrders": 2,
+  "attributedRevenue": 780
+ },
+ {
+  "date": "2026-10-06",
+  "campaign": "OZ-Search-Assam",
+  "sku": "TEA-BLK-100",
+  "spend": 117.06,
+  "attributedOrders": 2,
+  "attributedRevenue": 780
+ },
+ {
+  "date": "2026-10-07",
+  "campaign": "OZ-Search-Assam",
+  "sku": "TEA-BLK-100",
+  "spend": 133.13,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-08",
+  "campaign": "OZ-Search-Assam",
+  "sku": "TEA-BLK-100",
+  "spend": 127.73,
+  "attributedOrders": 2,
+  "attributedRevenue": 780
+ },
+ {
+  "date": "2026-10-09",
+  "campaign": "OZ-Search-Assam",
+  "sku": "TEA-BLK-100",
+  "spend": 108.62,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-10",
+  "campaign": "OZ-Search-Assam",
+  "sku": "TEA-BLK-100",
+  "spend": 131.07,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-11",
+  "campaign": "OZ-Search-Assam",
+  "sku": "TEA-BLK-100",
+  "spend": 123.56,
+  "attributedOrders": 1,
+  "attributedRevenue": 390
+ },
+ {
+  "date": "2026-10-12",
+  "campaign": "OZ-Search-Assam",
+  "sku": "TEA-BLK-100",
+  "spend": 133.65,
+  "attributedOrders": 2,
+  "attributedRevenue": 780
+ },
+ {
+  "date": "2026-10-13",
+  "campaign": "OZ-Search-Assam",
+  "sku": "TEA-BLK-100",
+  "spend": 120.62,
+  "attributedOrders": 2,
+  "attributedRevenue": 780
+ },
+ {
+  "date": "2026-10-14",
+  "campaign": "OZ-Search-Assam",
+  "sku": "TEA-BLK-100",
+  "spend": 123.03,
+  "attributedOrders": 2,
+  "attributedRevenue": 780
+ },
+ {
+  "date": "2026-10-15",
+  "campaign": "OZ-Search-Assam",
+  "sku": "TEA-BLK-100",
+  "spend": 131.72,
+  "attributedOrders": 2,
+  "attributedRevenue": 780
+ },
+ {
+  "date": "2026-10-16",
+  "campaign": "OZ-Search-Assam",
+  "sku": "TEA-BLK-100",
+  "spend": 109.11,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-17",
+  "campaign": "OZ-Search-Assam",
+  "sku": "TEA-BLK-100",
+  "spend": 126.6,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-18",
+  "campaign": "OZ-Search-Assam",
+  "sku": "TEA-BLK-100",
+  "spend": 113.04,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-19",
+  "campaign": "OZ-Search-Assam",
+  "sku": "TEA-BLK-100",
+  "spend": 113.35,
+  "attributedOrders": 1,
+  "attributedRevenue": 390
+ },
+ {
+  "date": "2026-10-20",
+  "campaign": "OZ-Search-Assam",
+  "sku": "TEA-BLK-100",
+  "spend": 116.4,
+  "attributedOrders": 3,
+  "attributedRevenue": 1170
+ },
+ {
+  "date": "2026-10-21",
+  "campaign": "OZ-Search-Assam",
+  "sku": "TEA-BLK-100",
+  "spend": 106.82,
+  "attributedOrders": 1,
+  "attributedRevenue": 390
+ },
+ {
+  "date": "2026-10-22",
+  "campaign": "OZ-Search-Assam",
+  "sku": "TEA-BLK-100",
+  "spend": 114.92,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-23",
+  "campaign": "OZ-Search-Assam",
+  "sku": "TEA-BLK-100",
+  "spend": 117.84,
+  "attributedOrders": 2,
+  "attributedRevenue": 780
+ },
+ {
+  "date": "2026-10-24",
+  "campaign": "OZ-Search-Assam",
+  "sku": "TEA-BLK-100",
+  "spend": 121.58,
+  "attributedOrders": 2,
+  "attributedRevenue": 780
+ },
+ {
+  "date": "2026-10-25",
+  "campaign": "OZ-Search-Assam",
+  "sku": "TEA-BLK-100",
+  "spend": 119.06,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-26",
+  "campaign": "OZ-Search-Assam",
+  "sku": "TEA-BLK-100",
+  "spend": 102.36,
+  "attributedOrders": 1,
+  "attributedRevenue": 390
+ },
+ {
+  "date": "2026-10-27",
+  "campaign": "OZ-Search-Assam",
+  "sku": "TEA-BLK-100",
+  "spend": 127.77,
+  "attributedOrders": 1,
+  "attributedRevenue": 390
+ },
+ {
+  "date": "2026-09-28",
+  "campaign": "OZ-Matcha-Promo",
+  "sku": "TEA-MAT-030",
+  "spend": 476.32,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-09-29",
+  "campaign": "OZ-Matcha-Promo",
+  "sku": "TEA-MAT-030",
+  "spend": 485.41,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-09-30",
+  "campaign": "OZ-Matcha-Promo",
+  "sku": "TEA-MAT-030",
+  "spend": 469.77,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-01",
+  "campaign": "OZ-Matcha-Promo",
+  "sku": "TEA-MAT-030",
+  "spend": 485.6,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-02",
+  "campaign": "OZ-Matcha-Promo",
+  "sku": "TEA-MAT-030",
+  "spend": 453.44,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-03",
+  "campaign": "OZ-Matcha-Promo",
+  "sku": "TEA-MAT-030",
+  "spend": 488.21,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-04",
+  "campaign": "OZ-Matcha-Promo",
+  "sku": "TEA-MAT-030",
+  "spend": 431.52,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-05",
+  "campaign": "OZ-Matcha-Promo",
+  "sku": "TEA-MAT-030",
+  "spend": 415.92,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-06",
+  "campaign": "OZ-Matcha-Promo",
+  "sku": "TEA-MAT-030",
+  "spend": 512.58,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-07",
+  "campaign": "OZ-Matcha-Promo",
+  "sku": "TEA-MAT-030",
+  "spend": 434.51,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-08",
+  "campaign": "OZ-Matcha-Promo",
+  "sku": "TEA-MAT-030",
+  "spend": 450.44,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-09",
+  "campaign": "OZ-Matcha-Promo",
+  "sku": "TEA-MAT-030",
+  "spend": 395.44,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-10",
+  "campaign": "OZ-Matcha-Promo",
+  "sku": "TEA-MAT-030",
+  "spend": 387.96,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-11",
+  "campaign": "OZ-Matcha-Promo",
+  "sku": "TEA-MAT-030",
+  "spend": 468.79,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-12",
+  "campaign": "OZ-Matcha-Promo",
+  "sku": "TEA-MAT-030",
+  "spend": 391.19,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-13",
+  "campaign": "OZ-Matcha-Promo",
+  "sku": "TEA-MAT-030",
+  "spend": 492.98,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-14",
+  "campaign": "OZ-Matcha-Promo",
+  "sku": "TEA-MAT-030",
+  "spend": 442.79,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-15",
+  "campaign": "OZ-Matcha-Promo",
+  "sku": "TEA-MAT-030",
+  "spend": 396.67,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-16",
+  "campaign": "OZ-Matcha-Promo",
+  "sku": "TEA-MAT-030",
+  "spend": 410.76,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-17",
+  "campaign": "OZ-Matcha-Promo",
+  "sku": "TEA-MAT-030",
+  "spend": 411.2,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-18",
+  "campaign": "OZ-Matcha-Promo",
+  "sku": "TEA-MAT-030",
+  "spend": 453.55,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-19",
+  "campaign": "OZ-Matcha-Promo",
+  "sku": "TEA-MAT-030",
+  "spend": 446.04,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-20",
+  "campaign": "OZ-Matcha-Promo",
+  "sku": "TEA-MAT-030",
+  "spend": 422.3,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-21",
+  "campaign": "OZ-Matcha-Promo",
+  "sku": "TEA-MAT-030",
+  "spend": 431.78,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-22",
+  "campaign": "OZ-Matcha-Promo",
+  "sku": "TEA-MAT-030",
+  "spend": 440.74,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-23",
+  "campaign": "OZ-Matcha-Promo",
+  "sku": "TEA-MAT-030",
+  "spend": 468.75,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-24",
+  "campaign": "OZ-Matcha-Promo",
+  "sku": "TEA-MAT-030",
+  "spend": 502.25,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-25",
+  "campaign": "OZ-Matcha-Promo",
+  "sku": "TEA-MAT-030",
+  "spend": 445.6,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-26",
+  "campaign": "OZ-Matcha-Promo",
+  "sku": "TEA-MAT-030",
+  "spend": 413.66,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ },
+ {
+  "date": "2026-10-27",
+  "campaign": "OZ-Matcha-Promo",
+  "sku": "TEA-MAT-030",
+  "spend": 398.2,
+  "attributedOrders": 0,
+  "attributedRevenue": 0
+ }
+]
