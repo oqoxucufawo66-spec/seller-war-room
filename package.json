@@ -5,6 +5,7 @@
   "private": true,
   "scripts": {
     "hello": "tsx src/hello-concurrency.ts",
+    "data": "tsx data/generate.ts",
     "typecheck": "tsc --noEmit"
   },
   "license": "MIT",
