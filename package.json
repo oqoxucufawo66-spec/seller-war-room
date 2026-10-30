@@ -1,0 +1,20 @@
+{
+  "name": "seller-war-room",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "hello": "tsx src/hello-concurrency.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@mozaik-ai/core": "^4.2.0",
+    "dotenv": "^18.0.9"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3"
+  }
+}
