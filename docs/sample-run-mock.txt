@@ -1,0 +1,79 @@
+
+> seller-war-room@0.1.0 demo
+> tsx src/demo.ts
+
+     1ms  🚨 Operator opens the War Room: audit request to 3 analysts + Critic
+     1ms  ▶ Ozon Analyst starts auditing Ozon
+     1ms  ▶ Wildberries Analyst starts auditing Wildberries
+     1ms  ▶ Yandex Market Analyst starts auditing Yandex Market
+mozaik cloud: no API key — telemetry disabled. Set MOZAIK_API_KEY, or run `npx @mozaik-ai/cloud-sdk pair` to connect this machine.
+   789ms  📌 F1 Yandex Market Analyst: ads_drr TEA-PUE-200 −1,899 ₽ [proposed]
+  1136ms  📌 F2 Wildberries Analyst: margin TEA-HRB-050 −1,853 ₽ [proposed]
+  1265ms  📌 F3 Yandex Market Analyst: overstock TEA-GFT-SET −720 ₽ [proposed]
+  1481ms  📌 F4 Ozon Analyst: ads_drr TEA-BLK-100 −2,154 ₽ [proposed]
+  1597ms  ✅ F1 verified: recomputed 1899 ₽ (stock 80, DRR 0.33 > 0.1)
+  1696ms  📌 F5 Wildberries Analyst: overstock TEA-GFT-SET −36,000 ₽ [proposed]
+  1703ms  📌 F6 Yandex Market Analyst: margin ACC-INF-001 −812 ₽ [proposed]
+  1706ms  ✅ F2 verified: recomputed 1853 ₽ (unit profit 61.29 < target 80)
+  1740ms  ❌ F3 rejected: not a leak under the rule for "overstock" (53 days of cover ≤ 90)
+  1741ms  ↻ Yandex Market Analyst re-checks F3 after the Critic's rejection
+  2043ms  ✅ F4 verified: recomputed 2154 ₽ (stock 120, DRR 0.25 > 0.1)
+  2086ms  📌 F7 Wildberries Analyst: ads_drr HNY-LIN-250 −2,910 ₽ [proposed]
+  2093ms  📌 F8 Ozon Analyst: margin TEA-HRB-050 −157 ₽ [proposed]
+  2235ms  📌 F9 Yandex Market Analyst: penalty (store) −10,500 ₽ [proposed]
+  2326ms  ✅ F5 verified: recomputed 36000 ₽ (1200 days of cover > 90)
+  2417ms  ✅ F7 verified: recomputed 2910 ₽ (stock 150, DRR 0.27 > 0.1)
+  2426ms  💬 Critic: F1 verified: recomputed 1899 ₽ (stock 80, DRR 0.33 > 0.1)
+  2429ms  ✅ F6 verified: recomputed 812 ₽ (unit profit 59.7 < target 80)
+  2441ms  💬 Critic: F3 rejected: not a leak under the rule for "overstock" (53 days of cover ≤ 90)
+  2594ms  💬 Critic: F2 verified: recomputed 1853 ₽ (unit profit 61.29 < target 80)
+  2638ms  ⛔ gate blocked post_finding from Ozon Analyst: duplicate of F4 (verified) — already on the board
+  2639ms  💬 Critic: F4 verified: recomputed 2154 ₽ (stock 120, DRR 0.25 > 0.1)
+  2705ms  📌 F10 Wildberries Analyst: margin ACC-INF-001 −4,920 ₽ [proposed]
+  2725ms  ✅ F8 verified: recomputed 157 ₽ (unit profit 77.96 < target 80)
+  2784ms  ✅ F9 verified: recomputed 10500 ₽ (7 penalties)
+  2824ms  💬 Critic: F6 verified: recomputed 812 ₽ (unit profit 59.7 < target 80)
+  2827ms  💬 Yandex Market Analyst: done: re-checked F3, it is not a leak under the rules — withdrawn.
+  2881ms  💬 Critic: F5 verified: recomputed 36000 ₽ (1200 days of cover > 90)
+  2933ms  💬 Critic: F7 verified: recomputed 2910 ₽ (stock 150, DRR 0.27 > 0.1)
+  3005ms  💬 Yandex Market Analyst: done: 4 findings
+  3179ms  📌 F11 Ozon Analyst: margin HNY-LIN-250 −2,719 ₽ [proposed]
+  3390ms  ✅ F10 verified: recomputed 4920 ₽ (unit profit 20.73 < target 80)
+  3472ms  💬 Critic: F9 verified: recomputed 10500 ₽ (7 penalties)
+  3475ms  📌 F12 Wildberries Analyst: returns ACC-POT-600 −1,680 ₽ [proposed]
+  3554ms  💬 Critic: F8 verified: recomputed 157 ₽ (unit profit 77.96 < target 80)
+  3694ms  💬 Critic: F10 verified: recomputed 4920 ₽ (unit profit 20.73 < target 80)
+  3792ms  📌 F13 Ozon Analyst: margin HNY-BCK-500 −27,309 ₽ [proposed]
+  4015ms  ✅ F11 verified: recomputed 2719 ₽ (unit profit 44.23 < target 80)
+  4124ms  📌 F14 Wildberries Analyst: ads_drr ACC-POT-600 −27,562 ₽ [proposed]
+  4160ms  ✅ F12 verified: recomputed 1680 ₽ (buyout 0.6 < 0.7)
+  4166ms  ✅ F13 verified: recomputed 27309 ₽ (unit profit -32.38 < target 80)
+  4476ms  💬 Critic: F13 verified: recomputed 27309 ₽ (unit profit -32.38 < target 80)
+  4555ms  📌 F15 Ozon Analyst: margin ACC-INF-001 −4,034 ₽ [proposed]
+  4598ms  💬 Critic: F11 verified: recomputed 2719 ₽ (unit profit 44.23 < target 80)
+  4752ms  📌 F16 Wildberries Analyst: overstock ACC-POT-600 −2,250 ₽ [proposed]
+  4886ms  ❌ F14 rejected: number mismatch: posted 27562 ₽, recomputed 24643 ₽ from the raw export (stock 150, DRR 0.94 > 0.1)
+  4886ms  ↻ Wildberries Analyst re-checks F14 after the Critic's rejection
+  4996ms  📌 F17 Ozon Analyst: overstock ACC-POT-600 −1,260 ₽ [proposed]
+  5037ms  💬 Critic: F12 verified: recomputed 1680 ₽ (buyout 0.6 < 0.7)
+  5183ms  💬 Wildberries Analyst: done: 7 findings
+  5264ms  ✅ F16 verified: recomputed 2250 ₽ (125 days of cover > 90)
+  5316ms  ✅ F15 verified: recomputed 4034 ₽ (unit profit 26.92 < target 80)
+  5578ms  💬 Critic: F16 verified: recomputed 2250 ₽ (125 days of cover > 90)
+  5682ms  💬 Critic: F14 rejected: number mismatch: posted 27562 ₽, recomputed 24643 ₽ from the raw export (stock 150, DRR 0.94 > 0.1)
+  5698ms  📌 F18 Ozon Analyst: ads_out_of_stock TEA-MAT-030 −13,324 ₽ [proposed]
+  5725ms  💬 Critic: F15 verified: recomputed 4034 ₽ (unit profit 26.92 < target 80)
+  5833ms  ✅ F17 verified: recomputed 1260 ₽ (120 days of cover > 90)
+  6001ms  📌 F19 Wildberries Analyst: ads_drr ACC-POT-600 −24,643 ₽ [proposed]
+  6215ms  💬 Ozon Analyst: done: 8 findings
+  6318ms  💬 Critic: F17 verified: recomputed 1260 ₽ (120 days of cover > 90)
+  6549ms  ✅ F18 verified: recomputed 13324 ₽ (stock 0, ad spend 13324)
+  6635ms  ✅ F19 verified: recomputed 24643 ₽ (stock 150, DRR 0.94 > 0.1)
+  6652ms  💬 Wildberries Analyst: done: F14 re-posted with adOverspendRub = 24643 ₽.
+  7256ms  💬 Critic: F18 verified: recomputed 13324 ₽ (stock 0, ad spend 13324)
+  7394ms  💬 Critic: F19 verified: recomputed 24643 ₽ (stock 150, DRR 0.94 > 0.1)
+  7394ms  🏁 board settled: every finding is verified or rejected, no agent is running
+
+========================================================================
+Verified leaks: 17 worth 138,424 ₽ · rejected: 2 · gate blocks: 1 · coverage 17/17
+Report: out/report.md · trace: out/trace.json

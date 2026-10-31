@@ -38,7 +38,7 @@ export class MockInferenceRunner implements InferenceRunner {
 		await new Promise((r) => setTimeout(r, lo + Math.random() * (hi - lo)))
 		const items = input.context.getItems()
 		const tools = (input.tools ?? []).map((t) => t.name)
-		const out = tools.includes("verify_finding") ? criticTurn(items) : analystTurn(items)
+		const out = tools.includes("verify_finding") ? criticTurn(items) : tools.includes("post_finding") ? analystTurn(items) : genericTurn(items, tools)
 		return { items: [out], tokenUsage: undefined, rowResponse: { mock: true } }
 	}
 
@@ -54,6 +54,13 @@ const outputsOf = (items: unknown[], name: string) => {
 	const calls = items.filter((i) => i instanceof FunctionCallItem && (i as FunctionCallItem).name === name) as FunctionCallItem[]
 	const outs = items.filter((i) => i instanceof FunctionCallOutputItem) as FunctionCallOutputItem[]
 	return calls.map((c) => outs.find((o) => (o as any).callId === (c as any).callId)?.output.text).filter(Boolean) as string[]
+}
+
+/** Any other agent (e.g. the hello smoke test): call each tool once, in order, then answer. */
+function genericTurn(items: unknown[], tools: string[]) {
+	const called = items.filter((i) => i instanceof FunctionCallItem).length
+	if (called < tools.length) return call(tools[called], {})
+	return say(`done: called ${called} tool(s)`)
 }
 
 function criticTurn(items: unknown[]) {
