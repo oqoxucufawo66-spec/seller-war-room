@@ -6,7 +6,10 @@
   "scripts": {
     "hello": "tsx src/hello-concurrency.ts",
     "data": "tsx data/generate.ts",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "demo": "tsx src/demo.ts",
+    "demo:live": "WARROOM_MODE=live tsx src/demo.ts",
+    "test": "tsx --test test/*.test.ts"
   },
   "license": "MIT",
   "dependencies": {
