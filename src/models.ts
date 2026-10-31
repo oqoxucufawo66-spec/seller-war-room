@@ -38,7 +38,7 @@ export class MockInferenceRunner implements InferenceRunner {
 		await new Promise((r) => setTimeout(r, lo + Math.random() * (hi - lo)))
 		const items = input.context.getItems()
 		const tools = (input.tools ?? []).map((t) => t.name)
-		const out = tools.includes("verify_finding") ? criticTurn(items) : tools.includes("post_finding") ? analystTurn(items) : genericTurn(items, tools)
+		const out = tools.includes("verify_finding") ? criticTurn(items) : tools.includes("get_marketplace_metrics") ? analystTurn(items) : genericTurn(items, tools)
 		return { items: [out], tokenUsage: undefined, rowResponse: { mock: true } }
 	}
 
